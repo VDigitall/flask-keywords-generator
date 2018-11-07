@@ -1,0 +1,17 @@
+# Byte-compiled files
+*.pyc
+
+*.log
+*.sqlite3
+
+
+*settings_local.py
+# Python environments
+.env/
+.env3/
+.python-version
+
+# Editor configuration
+.vscode/
+*.code-workspace
+.idea/
